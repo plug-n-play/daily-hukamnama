@@ -1,1 +1,2 @@
-# zeit_vanilla-functions
+# Playground for ZEIT Deployments
+Vanilla HTML, CSS, JS + Functions
