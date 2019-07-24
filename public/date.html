@@ -6,7 +6,6 @@
   </head>
   <body>
     <h1>Waheguru Ji Ka Khalsa Waheguru Ji Ki Fateh</h1>
-    <p id="hukamnama"></p>
     <h2>
       Deployed with
       <a href="https://zeit.co/docs" target="_blank" rel="noreferrer noopener"
@@ -27,19 +26,11 @@
     <h3>The date according to Node is:</h3>
     <p class="date js-date">Loading date...</p>
     <script>
-      async function main() {
+      (async function main() {
         let response = await fetch(`/api/date.js`);
         let date = await response.text()
         document.querySelector('.js-date').textContent = date;
-
-
-        let hukamnama = '';
-        response = await fetch(`/api/hukamnama.js`);
-        let hukamnamaJSON = await response.json()
-        hukamnamaJSON.hukamnama.map( i => hukamnama += `<div>${i.line.gurmukhi.unicode}</div>` )
-        document.querySelector('#hukamnama').innerHTML = hukamnama;
-      }
-      main();
+      })()
     </script>
   </body>
 </html>

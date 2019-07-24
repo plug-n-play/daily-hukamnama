@@ -53,5 +53,15 @@ p {
 
 #hukamnama {
   font-size: 36px;
-  color: #ff1c00;
+  color: #0a19b0;
+  animation: fadein 3s;
+}
+
+@keyframes fadein {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
 }

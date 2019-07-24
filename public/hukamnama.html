@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>A simple deployment with the Now API!</title>
+    <link rel="stylesheet" href="/style.css" />
+  </head>
+  <body>
+    <main id="hukamnama"></main>
+    <script>
+      (async function main() {
+        response = await fetch(`/api/hukamnama.js`);
+        let hukamnamaJSON = await response.json()
+        debugger
+        let hukamnama = `<h3>${hukamnamaJSON.hukamnama[0].line.gurmukhi.unicode}</h3>`;
+        hukamnamaJSON.hukamnama.shift();
+        hukamnamaJSON.hukamnama.map( i => hukamnama += `<div>${i.line.gurmukhi.unicode}</div>` )
+        document.querySelector('#hukamnama').innerHTML = hukamnama;
+      })()
+    </script>
+  </body>
+</html>
