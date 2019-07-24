@@ -1,0 +1,23 @@
+{
+  "name": "vanilla-functions",
+  "version": "1.0.0",
+  "description": "Playground for ZEIT deployments",
+  "main": "index.js",
+  "dependencies": {
+    "node-fetch": "^2.6.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/plug-n-play/zeit_vanilla-functions.git"
+  },
+  "author": "Amandeep Singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/plug-n-play/zeit_vanilla-functions/issues"
+  },
+  "homepage": "https://github.com/plug-n-play/zeit_vanilla-functions#readme"
+}
