@@ -52,9 +52,21 @@ p {
 }
 
 #hukamnama {
-  font-size: 36px;
+  font-size: 24px;
   color: #0a19b0;
   animation: fadein 3s;
+}
+
+@media all and (min-width: 600px) {
+  #hukamnama {
+    font-size: 36px;
+  }
+}
+
+@media all and (min-width: 800px) {
+  body {
+    max-width: 800px;
+  }
 }
 
 @keyframes fadein {

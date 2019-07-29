@@ -1,22 +1,11 @@
 const fs = require('fs');
-const fetch = require('node-fetch')
+const HukamnamaUtil = require('./util/Hukamnama');
+let hukamnamaHTMLTemplate = require('./util/hukamnamaTemplate.js');
 
-let hukamnamaHTML = require('./util/hukamnamaTemplate.js');
-
-async function getHukumnama() {
-  let response = await fetch(`https://api.gurbaninow.com/v2/hukamnama/today`);
-  let hukamnamaJSON = await response.json()
-  let hukamnama = `<h3>${hukamnamaJSON.hukamnama[0].line.gurmukhi.unicode}</h3>`;
-  hukamnamaJSON.hukamnama.shift();
-  hukamnamaJSON.hukamnama.map( i => hukamnama += `<div>${i.line.gurmukhi.unicode}</div>` )
-
-  return hukamnama;
-}
-
-getHukumnama().then((hukamnama) => {
-  hukamnamaHTML = hukamnamaHTML.replace('[HUKUMNAMA]', hukamnama)
+HukamnamaUtil.getHukamHTML().then( (hukamnamaHTML) => {
+  const hukamnamaPage = hukamnamaHTMLTemplate.replace('[HUKUMNAMA]', hukamnamaHTML)
   try {
-    fs.writeFileSync('public/index.html', hukamnamaHTML, 'utf8')
+    fs.writeFileSync('public/index.html', hukamnamaPage, 'utf8')
     console.log('----created index.html and added Hukumnama----')
   } catch(err) {
     console.error(err);

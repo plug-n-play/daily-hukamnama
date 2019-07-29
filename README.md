@@ -1,2 +1,2 @@
-# Playground for ZEIT Deployments
-Vanilla HTML, CSS, JS + Functions 
+# Harmander Sahib Daily Hukamnama
+Daily Hukumnama (The present Living Guru of Sikhs) from Harmander Sahib in Amritsar, Punjab, India
