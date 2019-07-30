@@ -1,3 +1,15 @@
+:root {
+  --main-txt-color: #ff4500;
+
+  --transliteration-hindi-color: #02958d;
+  --transliteration-english-color: #2196f3;
+  --translation-punjabi-color: #029520;
+  --translation-english-color: #be025b;
+
+  --primary-font-size: 30px;
+  --secondary-font-size: 30px;
+}
+
 body {
   font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", "Helvetica",
     "Arial", sans-serif;
@@ -33,19 +45,6 @@ a:hover {
   border-bottom: 1px solid #0076ff;
 }
 
-code,
-pre {
-  font-family: Menlo, Monaco, Lucida Console, Liberation Mono, DejaVu Sans Mono,
-    Bitstream Vera Sans Mono, Courier New, monospace, serif;
-  font-size: 0.92em;
-  color: #d400ff;
-}
-
-code:before,
-code:after {
-  content: "`";
-}
-
 p {
   text-align: center;
   font-size: 16px;
@@ -53,8 +52,34 @@ p {
 
 #hukamnama {
   font-size: 24px;
-  color: #0a19b0;
+  color: var(--main-txt-color);
   animation: fadein 3s;
+}
+
+.btn {
+  color: #fff;
+  border-radius: 5px;
+  padding: 10px 20px;
+  font-size: 14px;
+}
+.btn--transliteration-hindi {
+  background: var(--transliteration-hindi-color);
+}
+.transliteration-hindi {
+  color: var(--transliteration-hindi-color);
+}
+.transliteration-english {
+  color: var(--transliteration-english-color);
+}
+.translation {
+  font-size: var(--secondary-font-size);
+}
+.translation-punjabi {
+  /* color: #0a19b0; */
+  color: var(--translation-punjabi-color);
+}
+.translation-english {
+  color: var(--translation-english-color);
 }
 
 @media all and (min-width: 600px) {
@@ -65,7 +90,7 @@ p {
 
 @media all and (min-width: 800px) {
   body {
-    max-width: 800px;
+    max-width: 900px;
   }
 }
 

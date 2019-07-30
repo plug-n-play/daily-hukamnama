@@ -1,0 +1,986 @@
+{
+  "date": {
+      "gregorian": {
+          "month": "July",
+          "monthno": 7,
+          "date": 29,
+          "year": 2019,
+          "day": "Monday"
+      },
+      "nanakshahi": {
+          "english": {
+              "month": "Savan",
+              "monthno": 5,
+              "date": 14,
+              "year": 551,
+              "day": "Somvaar"
+          },
+          "punjabi": {
+              "month": "ਸਾਵਣ",
+              "monthno": "੫",
+              "date": "੧੪",
+              "year": "੫੫੧",
+              "day": "ਸੋਮਵਾਰ"
+          }
+      }
+  },
+  "hukamnamainfo": {
+      "shabadid": [
+          "7TL",
+          "HGT",
+          "XYB"
+      ],
+      "pageno": 644,
+      "source": {
+          "id": 1,
+          "akhar": "SRI gurU gRMQ swihb jI",
+          "unicode": "ਸ਼੍ਰੀ ਗੁਰੂ ਗ੍ਰੰਥ ਸਾਹਿਬ ਜੀ",
+          "english": "Sri Guru Granth Sahib Ji",
+          "length": 1430,
+          "pageName": {
+              "akhar": "AMg",
+              "unicode": "ਅੰਗ",
+              "english": "Ang"
+          }
+      },
+      "writer": {
+          "id": 3,
+          "akhar": "gurU Amr dws jI",
+          "unicode": "ਗੁਰੂ ਅਮਰ ਦਾਸ ਜੀ",
+          "english": "Guru Amar Das Ji"
+      },
+      "raag": {
+          "id": 13,
+          "akhar": "rwgu soriT",
+          "unicode": "ਰਾਗੁ ਸੋਰਠਿ",
+          "english": "Raag Sorath",
+          "startang": 595,
+          "endang": 659,
+          "raagwithpage": "Raag Sorath (595-659)"
+      },
+      "count": 23
+  },
+  "hukamnama": [
+      {
+          "line": {
+              "id": "3412",
+              "gurmukhi": {
+                  "akhar": "sloku mÚ 3 ]",
+                  "unicode": "ਸਲੋਕੁ ਮਃ ੩ ॥"
+              },
+              "larivaar": {
+                  "akhar": "sloku​mÚ​3​]",
+                  "unicode": "ਸਲੋਕੁ​ਮਃ​੩​॥"
+              },
+              "translation": {
+                  "english": {
+                      "default": "Salok, Third Mehl:"
+                  },
+                  "punjabi": {
+                      "default": {
+                          "akhar": "",
+                          "unicode": ""
+                      }
+                  },
+                  "spanish": "Slok, Mejl Guru Amar Das, Tercer Canal Divino."
+              },
+              "transliteration": {
+                  "english": {
+                      "text": "salok mahalaa 3 ||",
+                      "larivaar": "salok​mahalaa​3​||"
+                  },
+                  "devanagari": {
+                      "text": "सलोकु मः ३ ॥",
+                      "larivaar": "सलोकु​मः​३​॥"
+                  }
+              },
+              "linenum": 14,
+              "firstletters": {
+                  "akhar": "sm3",
+                  "unicode": "ਸਮ੩"
+              }
+          }
+      },
+      {
+          "line": {
+              "id": "TZ03",
+              "gurmukhi": {
+                  "akhar": "siqgur kI syvw sPlu hY jy ko kry icqu lwie ]",
+                  "unicode": "ਸਤਿਗੁਰ ਕੀ ਸੇਵਾ ਸਫਲੁ ਹੈ ਜੇ ਕੋ ਕਰੇ ਚਿਤੁ ਲਾਇ ॥"
+              },
+              "larivaar": {
+                  "akhar": "siqgur​kI​syvw​sPlu​hY​jy​ko​kry​icqu​lwie​]",
+                  "unicode": "ਸਤਿਗੁਰ​ਕੀ​ਸੇਵਾ​ਸਫਲੁ​ਹੈ​ਜੇ​ਕੋ​ਕਰੇ​ਚਿਤੁ​ਲਾਇ​॥"
+              },
+              "translation": {
+                  "english": {
+                      "default": "Service to the True Guru is fruitful and rewarding, if one performs it with his mind focused on it."
+                  },
+                  "punjabi": {
+                      "default": {
+                          "akhar": "jy koeI mnu`K ic`q lgw ky syvw kry, qW siqgurU dI (d`sI) syvw zrUr Pl lWdI hY;",
+                          "unicode": "ਜੇ ਕੋਈ ਮਨੁੱਖ ਚਿੱਤ ਲਗਾ ਕੇ ਸੇਵਾ ਕਰੇ, ਤਾਂ ਸਤਿਗੁਰੂ ਦੀ (ਦੱਸੀ) ਸੇਵਾ ਜ਼ਰੂਰ ਫਲ ਲਾਂਦੀ ਹੈ;"
+                      }
+                  },
+                  "spanish": "Fructífero es el Servicio del Guru si uno lo hace sin distracción mental."
+              },
+              "transliteration": {
+                  "english": {
+                      "text": "satigur kee sevaa safal hai je ko kare chit laae ||",
+                      "larivaar": "satigur​kee​sevaa​safal​hai​je​ko​kare​chit​laae​||"
+                  },
+                  "devanagari": {
+                      "text": "सतिगुर की सेवा सफलु है जे को करे चितु लाइ ॥",
+                      "larivaar": "सतिगुर​की​सेवा​सफलु​है​जे​को​करे​चितु​लाइ​॥"
+                  }
+              },
+              "linenum": 15,
+              "firstletters": {
+                  "akhar": "sksshjkkcl",
+                  "unicode": "ਸਕਸਸਹਜਕਕਚਲ"
+              }
+          }
+      },
+      {
+          "line": {
+              "id": "VXWY",
+              "gurmukhi": {
+                  "akhar": "min icMidAw Plu pwvxw haumY ivchu jwie ]",
+                  "unicode": "ਮਨਿ ਚਿੰਦਿਆ ਫਲੁ ਪਾਵਣਾ ਹਉਮੈ ਵਿਚਹੁ ਜਾਇ ॥"
+              },
+              "larivaar": {
+                  "akhar": "min​icMidAw​Plu​pwvxw​haumY​ivchu​jwie​]",
+                  "unicode": "ਮਨਿ​ਚਿੰਦਿਆ​ਫਲੁ​ਪਾਵਣਾ​ਹਉਮੈ​ਵਿਚਹੁ​ਜਾਇ​॥"
+              },
+              "translation": {
+                  "english": {
+                      "default": "The fruits of the mind's desires are obtained, and egotism departs from within."
+                  },
+                  "punjabi": {
+                      "default": {
+                          "akhar": "mn-ie`iCAw Pl imldw hY, AhMkwr mn ivcoN dUr huMdw hY;",
+                          "unicode": "ਮਨ-ਇੱਛਿਆ ਫਲ ਮਿਲਦਾ ਹੈ, ਅਹੰਕਾਰ ਮਨ ਵਿਚੋਂ ਦੂਰ ਹੁੰਦਾ ਹੈ;"
+                      }
+                  },
+                  "spanish": "Es así como uno logra obtener el Fruto de los deseos de su corazón y su ego logra ser transmutado."
+              },
+              "transliteration": {
+                  "english": {
+                      "text": "man chindhiaa fal paavaNaa haumai vichahu jaae ||",
+                      "larivaar": "man​chindhiaa​fal​paavaNaa​haumai​vichahu​jaae​||"
+                  },
+                  "devanagari": {
+                      "text": "मनि चिंदिआ फलु पावणा हउमै विचहु जाइ ॥",
+                      "larivaar": "मनि​चिंदिआ​फलु​पावणा​हउमै​विचहु​जाइ​॥"
+                  }
+              },
+              "linenum": 15,
+              "firstletters": {
+                  "akhar": "mcPphvj",
+                  "unicode": "ਮਚਫਪਹਵਜ"
+              }
+          }
+      },
+      {
+          "line": {
+              "id": "KVQ5",
+              "gurmukhi": {
+                  "akhar": "bMDn qoVY mukiq hoie scy rhY smwie ]",
+                  "unicode": "ਬੰਧਨ ਤੋੜੈ ਮੁਕਤਿ ਹੋਇ ਸਚੇ ਰਹੈ ਸਮਾਇ ॥"
+              },
+              "larivaar": {
+                  "akhar": "bMDn​qoVY​mukiq​hoie​scy​rhY​smwie​]",
+                  "unicode": "ਬੰਧਨ​ਤੋੜੈ​ਮੁਕਤਿ​ਹੋਇ​ਸਚੇ​ਰਹੈ​ਸਮਾਇ​॥"
+              },
+              "translation": {
+                  "english": {
+                      "default": "His bonds are broken, and he is liberated; he remains absorbed in the True Lord."
+                  },
+                  "punjabi": {
+                      "default": {
+                          "akhar": "(gurU dI d`sI kwr mwieAw dy) bMDnW ƒ qoVdI hY (bMDnW qoN) ^lwsI ho jWdI hY qy s`cy hrI ivc mnu`K smwieAw rihMdw hY[",
+                          "unicode": "(ਗੁਰੂ ਦੀ ਦੱਸੀ ਕਾਰ ਮਾਇਆ ਦੇ) ਬੰਧਨਾਂ ਨੂੰ ਤੋੜਦੀ ਹੈ (ਬੰਧਨਾਂ ਤੋਂ) ਖ਼ਲਾਸੀ ਹੋ ਜਾਂਦੀ ਹੈ ਤੇ ਸੱਚੇ ਹਰੀ ਵਿਚ ਮਨੁੱਖ ਸਮਾਇਆ ਰਹਿੰਦਾ ਹੈ।"
+                      }
+                  },
+                  "spanish": "Uno desata sus amarras, es liberado y se une con el Uno Verdadero."
+              },
+              "transliteration": {
+                  "english": {
+                      "text": "bandhan torrai mukat hoe sache rahai samaae ||",
+                      "larivaar": "bandhan​torrai​mukat​hoe​sache​rahai​samaae​||"
+                  },
+                  "devanagari": {
+                      "text": "बंधन तोड़ै मुकति होइ सचे रहै समाइ ॥",
+                      "larivaar": "बंधन​तोड़ै​मुकति​होइ​सचे​रहै​समाइ​॥"
+                  }
+              },
+              "linenum": 16,
+              "firstletters": {
+                  "akhar": "bqmhsrs",
+                  "unicode": "ਬਤਮਹਸਰਸ"
+              }
+          }
+      },
+      {
+          "line": {
+              "id": "03YK",
+              "gurmukhi": {
+                  "akhar": "iesu jg mih nwmu AlBu hY gurmuiK vsY min Awie ]",
+                  "unicode": "ਇਸੁ ਜਗ ਮਹਿ ਨਾਮੁ ਅਲਭੁ ਹੈ ਗੁਰਮੁਖਿ ਵਸੈ ਮਨਿ ਆਇ ॥"
+              },
+              "larivaar": {
+                  "akhar": "iesu​jg​mih​nwmu​AlBu​hY​gurmuiK​vsY​min​Awie​]",
+                  "unicode": "ਇਸੁ​ਜਗ​ਮਹਿ​ਨਾਮੁ​ਅਲਭੁ​ਹੈ​ਗੁਰਮੁਖਿ​ਵਸੈ​ਮਨਿ​ਆਇ​॥"
+              },
+              "translation": {
+                  "english": {
+                      "default": "It is so difficult to obtain the Naam in this world; it comes to dwell in the mind of the Gurmukh."
+                  },
+                  "punjabi": {
+                      "default": {
+                          "akhar": "ies sMswr ivc hrI dw nwm durl`B hY, siqgurU dy snmuK mnu`K dy mn ivc Aw ky v`sdw hY;",
+                          "unicode": "ਇਸ ਸੰਸਾਰ ਵਿਚ ਹਰੀ ਦਾ ਨਾਮ ਦੁਰਲੱਭ ਹੈ, ਸਤਿਗੁਰੂ ਦੇ ਸਨਮੁਖ ਮਨੁੱਖ ਦੇ ਮਨ ਵਿਚ ਆ ਕੇ ਵੱਸਦਾ ਹੈ;"
+                      }
+                  },
+                  "spanish": "Es difícil alcanzar el Nombre del Señor en este mundo; es a través del Guru que uno Lo enaltece en su mente."
+              },
+              "transliteration": {
+                  "english": {
+                      "text": "eis jag meh naam alabh hai guramukh vasai man aae ||",
+                      "larivaar": "eis​jag​meh​naam​alabh​hai​guramukh​vasai​man​aae​||"
+                  },
+                  "devanagari": {
+                      "text": "इसु जग महि नामु अलभु है गुरमुखि वसै मनि आइ ॥",
+                      "larivaar": "इसु​जग​महि​नामु​अलभु​है​गुरमुखि​वसै​मनि​आइ​॥"
+                  }
+              },
+              "linenum": 16,
+              "firstletters": {
+                  "akhar": "ejmnAhgvmA",
+                  "unicode": "ੲਜਮਨਅਹਗਵਮਅ"
+              }
+          }
+      },
+      {
+          "line": {
+              "id": "DSR5",
+              "gurmukhi": {
+                  "akhar": "nwnk jo guru syvih Awpxw hau iqn bilhwrY jwau ]1]",
+                  "unicode": "ਨਾਨਕ ਜੋ ਗੁਰੁ ਸੇਵਹਿ ਆਪਣਾ ਹਉ ਤਿਨ ਬਲਿਹਾਰੈ ਜਾਉ ॥੧॥"
+              },
+              "larivaar": {
+                  "akhar": "nwnk​jo​guru​syvih​Awpxw​hau​iqn​bilhwrY​jwau​]1]",
+                  "unicode": "ਨਾਨਕ​ਜੋ​ਗੁਰੁ​ਸੇਵਹਿ​ਆਪਣਾ​ਹਉ​ਤਿਨ​ਬਲਿਹਾਰੈ​ਜਾਉ​॥੧॥"
+              },
+              "translation": {
+                  "english": {
+                      "default": "O Nanak, I am a sacrifice to one who serves his True Guru. ||1||"
+                  },
+                  "punjabi": {
+                      "default": {
+                          "akhar": "hy nwnk! (AwK-) mYN sdky hW auhnW qoN jo Awpxy siqgurU dI d`sI kwr krdy hn ]1]",
+                          "unicode": "ਹੇ ਨਾਨਕ! (ਆਖ-) ਮੈਂ ਸਦਕੇ ਹਾਂ ਉਹਨਾਂ ਤੋਂ ਜੋ ਆਪਣੇ ਸਤਿਗੁਰੂ ਦੀ ਦੱਸੀ ਕਾਰ ਕਰਦੇ ਹਨ ॥੧॥"
+                      }
+                  },
+                  "spanish": "Dice Nanak, ofrezco mi ser en sacrificio a aquél que sirve a su Guru. (1)"
+              },
+              "transliteration": {
+                  "english": {
+                      "text": "naanak jo gur seveh aapaNaa hau tin balihaarai jaau ||1||",
+                      "larivaar": "naanak​jo​gur​seveh​aapaNaa​hau​tin​balihaarai​jaau​||1||"
+                  },
+                  "devanagari": {
+                      "text": "नानक जो गुरु सेवहि आपणा हउ तिन बलिहारै जाउ ॥१॥",
+                      "larivaar": "नानक​जो​गुरु​सेवहि​आपणा​हउ​तिन​बलिहारै​जाउ​॥१॥"
+                  }
+              },
+              "linenum": 17,
+              "firstletters": {
+                  "akhar": "njgsAhqbj",
+                  "unicode": "ਨਜਗਸਅਹਤਬਜ"
+              }
+          }
+      },
+      {
+          "line": {
+              "id": "RTXT",
+              "gurmukhi": {
+                  "akhar": "mÚ 3 ]",
+                  "unicode": "ਮਃ ੩ ॥"
+              },
+              "larivaar": {
+                  "akhar": "mÚ​3​]",
+                  "unicode": "ਮਃ​੩​॥"
+              },
+              "translation": {
+                  "english": {
+                      "default": "Third Mehl:"
+                  },
+                  "punjabi": {
+                      "default": {
+                          "akhar": "",
+                          "unicode": ""
+                      }
+                  },
+                  "spanish": "Mejl Guru Amar Das, Tercer Canal Divino."
+              },
+              "transliteration": {
+                  "english": {
+                      "text": "mahalaa 3 ||",
+                      "larivaar": "mahalaa​3​||"
+                  },
+                  "devanagari": {
+                      "text": "मः ३ ॥",
+                      "larivaar": "मः​३​॥"
+                  }
+              },
+              "linenum": 17,
+              "firstletters": {
+                  "akhar": "m3",
+                  "unicode": "ਮ੩"
+              }
+          }
+      },
+      {
+          "line": {
+              "id": "CWLR",
+              "gurmukhi": {
+                  "akhar": "mnmuK mMnu Aijqu hY dUjY lgY jwie ]",
+                  "unicode": "ਮਨਮੁਖ ਮੰਨੁ ਅਜਿਤੁ ਹੈ ਦੂਜੈ ਲਗੈ ਜਾਇ ॥"
+              },
+              "larivaar": {
+                  "akhar": "mnmuK​mMnu​Aijqu​hY​dUjY​lgY​jwie​]",
+                  "unicode": "ਮਨਮੁਖ​ਮੰਨੁ​ਅਜਿਤੁ​ਹੈ​ਦੂਜੈ​ਲਗੈ​ਜਾਇ​॥"
+              },
+              "translation": {
+                  "english": {
+                      "default": "The mind of the self-willed manmukh is so very stubborn; it is stuck in the love of duality."
+                  },
+                  "punjabi": {
+                      "default": {
+                          "akhar": "mnmuK dw mn aus dy kwbU qoN bwhr hY, ikauNik auh mwieAw ivc jw ky l`gw hoieAw hY;",
+                          "unicode": "ਮਨਮੁਖ ਦਾ ਮਨ ਉਸ ਦੇ ਕਾਬੂ ਤੋਂ ਬਾਹਰ ਹੈ, ਕਿਉਂਕਿ ਉਹ ਮਾਇਆ ਵਿਚ ਜਾ ਕੇ ਲੱਗਾ ਹੋਇਆ ਹੈ;"
+                      }
+                  },
+                  "spanish": "El hombre de ego no puede conquistar su mente, pues está distraído con la idea del otro."
+              },
+              "transliteration": {
+                  "english": {
+                      "text": "manamukh mann ajit hai dhoojai lagai jaae ||",
+                      "larivaar": "manamukh​mann​ajit​hai​dhoojai​lagai​jaae​||"
+                  },
+                  "devanagari": {
+                      "text": "मनमुख मंनु अजितु है दूजै लगै जाइ ॥",
+                      "larivaar": "मनमुख​मंनु​अजितु​है​दूजै​लगै​जाइ​॥"
+                  }
+              },
+              "linenum": 17,
+              "firstletters": {
+                  "akhar": "mmAhdlj",
+                  "unicode": "ਮਮਅਹਦਲਜ"
+              }
+          }
+      },
+      {
+          "line": {
+              "id": "BMZ5",
+              "gurmukhi": {
+                  "akhar": "iqs no suKu supnY nhI duKy duiK ivhwie ]",
+                  "unicode": "ਤਿਸ ਨੋ ਸੁਖੁ ਸੁਪਨੈ ਨਹੀ ਦੁਖੇ ਦੁਖਿ ਵਿਹਾਇ ॥"
+              },
+              "larivaar": {
+                  "akhar": "iqs​no​suKu​supnY​nhI​duKy​duiK​ivhwie​]",
+                  "unicode": "ਤਿਸ​ਨੋ​ਸੁਖੁ​ਸੁਪਨੈ​ਨਹੀ​ਦੁਖੇ​ਦੁਖਿ​ਵਿਹਾਇ​॥"
+              },
+              "translation": {
+                  "english": {
+                      "default": "He does not find peace, even in dreams; he passes his life in misery and suffering."
+                  },
+                  "punjabi": {
+                      "default": {
+                          "akhar": "(is`tw ieh ik) aus ƒ supny ivc BI suK nhIN imldw, (aus dI aumr) sdw du`K ivc hI guzrdI hY[",
+                          "unicode": "(ਸਿੱਟਾ ਇਹ ਕਿ) ਉਸ ਨੂੰ ਸੁਪਨੇ ਵਿਚ ਭੀ ਸੁਖ ਨਹੀਂ ਮਿਲਦਾ, (ਉਸ ਦੀ ਉਮਰ) ਸਦਾ ਦੁੱਖ ਵਿਚ ਹੀ ਗੁਜ਼ਰਦੀ ਹੈ।"
+                      }
+                  },
+                  "spanish": "Por todas partes los eruditos se han cansado de leer y los adeptos de ir de trance en trance,"
+              },
+              "transliteration": {
+                  "english": {
+                      "text": "tis no sukh supanai nahee dhukhe dhukh vihaae ||",
+                      "larivaar": "tis​no​sukh​supanai​nahee​dhukhe​dhukh​vihaae​||"
+                  },
+                  "devanagari": {
+                      "text": "तिस नो सुखु सुपनै नही दुखे दुखि विहाइ ॥",
+                      "larivaar": "तिस​नो​सुखु​सुपनै​नही​दुखे​दुखि​विहाइ​॥"
+                  }
+              },
+              "linenum": 18,
+              "firstletters": {
+                  "akhar": "qnssnddv",
+                  "unicode": "ਤਨਸਸਨਦਦਵ"
+              }
+          }
+      },
+      {
+          "line": {
+              "id": "T5V1",
+              "gurmukhi": {
+                  "akhar": "Gir Gir piV piV pMifq Qky isD smwiD lgwie ]",
+                  "unicode": "ਘਰਿ ਘਰਿ ਪੜਿ ਪੜਿ ਪੰਡਿਤ ਥਕੇ ਸਿਧ ਸਮਾਧਿ ਲਗਾਇ ॥"
+              },
+              "larivaar": {
+                  "akhar": "Gir​Gir​piV​piV​pMifq​Qky​isD​smwiD​lgwie​]",
+                  "unicode": "ਘਰਿ​ਘਰਿ​ਪੜਿ​ਪੜਿ​ਪੰਡਿਤ​ਥਕੇ​ਸਿਧ​ਸਮਾਧਿ​ਲਗਾਇ​॥"
+              },
+              "translation": {
+                  "english": {
+                      "default": "The Pandits have grown weary of going door to door, reading and reciting their scriptures; the Siddhas have gone into their trances of Samaadhi."
+                  },
+                  "punjabi": {
+                      "default": {
+                          "akhar": "AnykW pMifq lok pVH pVH ky qy is`D smwDIAW lw lw ky Q`k gey hn,",
+                          "unicode": "ਅਨੇਕਾਂ ਪੰਡਿਤ ਲੋਕ ਪੜ੍ਹ ਪੜ੍ਹ ਕੇ ਤੇ ਸਿੱਧ ਸਮਾਧੀਆਂ ਲਾ ਲਾ ਕੇ ਥੱਕ ਗਏ ਹਨ,"
+                      }
+                  },
+                  "spanish": "pero el caso es que su mente no está bajo control, aunque hayan quedado exhaustos tratando de lograrlo."
+              },
+              "transliteration": {
+                  "english": {
+                      "text": "ghar ghar parr parr panddit thake sidh samaadh lagaae ||",
+                      "larivaar": "ghar​ghar​parr​parr​panddit​thake​sidh​samaadh​lagaae​||"
+                  },
+                  "devanagari": {
+                      "text": "घरि घरि पड़ि पड़ि पंडित थके सिध समाधि लगाइ ॥",
+                      "larivaar": "घरि​घरि​पड़ि​पड़ि​पंडित​थके​सिध​समाधि​लगाइ​॥"
+                  }
+              },
+              "linenum": 18,
+              "firstletters": {
+                  "akhar": "GGpppQssl",
+                  "unicode": "ਘਘਪਪਪਥਸਸਲ"
+              }
+          }
+      },
+      {
+          "line": {
+              "id": "R987",
+              "gurmukhi": {
+                  "akhar": "iehu mnu vis n AwveI Qky krm kmwie ]",
+                  "unicode": "ਇਹੁ ਮਨੁ ਵਸਿ ਨ ਆਵਈ ਥਕੇ ਕਰਮ ਕਮਾਇ ॥"
+              },
+              "larivaar": {
+                  "akhar": "iehu​mnu​vis​n​AwveI​Qky​krm​kmwie​]",
+                  "unicode": "ਇਹੁ​ਮਨੁ​ਵਸਿ​ਨ​ਆਵਈ​ਥਕੇ​ਕਰਮ​ਕਮਾਇ​॥"
+              },
+              "translation": {
+                  "english": {
+                      "default": "This mind cannot be controlled; they are tired of performing religious rituals."
+                  },
+                  "punjabi": {
+                      "default": {
+                          "akhar": "keI krm kr ky Q`k gey hn; (pVHn nwl qy smwDIAW nwl) ieh mn kwbU nhIN AwauNdw[",
+                          "unicode": "ਕਈ ਕਰਮ ਕਰ ਕੇ ਥੱਕ ਗਏ ਹਨ; (ਪੜ੍ਹਨ ਨਾਲ ਤੇ ਸਮਾਧੀਆਂ ਨਾਲ) ਇਹ ਮਨ ਕਾਬੂ ਨਹੀਂ ਆਉਂਦਾ।"
+                      }
+                  },
+                  "spanish": "Algunos se han vestido de mendigos y se han ido a bañar a los lugares santos,"
+              },
+              "transliteration": {
+                  "english": {
+                      "text": "eihu man vas na aave'ee thake karam kamaae ||",
+                      "larivaar": "eihu​man​vas​na​aave'ee​thake​karam​kamaae​||"
+                  },
+                  "devanagari": {
+                      "text": "इहु मनु वसि न आवई थके करम कमाइ ॥",
+                      "larivaar": "इहु​मनु​वसि​न​आवई​थके​करम​कमाइ​॥"
+                  }
+              },
+              "linenum": 19,
+              "firstletters": {
+                  "akhar": "emvnAQkk",
+                  "unicode": "ੲਮਵਨਅਥਕਕ"
+              }
+          }
+      },
+      {
+          "line": {
+              "id": "PZN5",
+              "gurmukhi": {
+                  "akhar": "ByKDwrI ByK kir Qky AiTsiT qIrQ nwie ]",
+                  "unicode": "ਭੇਖਧਾਰੀ ਭੇਖ ਕਰਿ ਥਕੇ ਅਠਿਸਠਿ ਤੀਰਥ ਨਾਇ ॥"
+              },
+              "larivaar": {
+                  "akhar": "ByKDwrI​ByK​kir​Qky​AiTsiT​qIrQ​nwie​]",
+                  "unicode": "ਭੇਖਧਾਰੀ​ਭੇਖ​ਕਰਿ​ਥਕੇ​ਅਠਿਸਠਿ​ਤੀਰਥ​ਨਾਇ​॥"
+              },
+              "translation": {
+                  "english": {
+                      "default": "The impersonators have grown weary of wearing false costumes, and bathing at the sixty-eight sacred shrines."
+                  },
+                  "punjabi": {
+                      "default": {
+                          "akhar": "ByK krn vwly mnu`K (Bwv, swDU lok) keI ByK kr ky qy ATwhT qIrQW qy nHw ky Q`k gey hn;",
+                          "unicode": "ਭੇਖ ਕਰਨ ਵਾਲੇ ਮਨੁੱਖ (ਭਾਵ, ਸਾਧੂ ਲੋਕ) ਕਈ ਭੇਖ ਕਰ ਕੇ ਤੇ ਅਠਾਹਠ ਤੀਰਥਾਂ ਤੇ ਨ੍ਹਾ ਕੇ ਥੱਕ ਗਏ ਹਨ;"
+                      }
+                  },
+                  "spanish": "pero continúan sin conocer el estado de sus mentes, pues han sido desviados por el ego y por la duda.."
+              },
+              "transliteration": {
+                  "english": {
+                      "text": "bhekhadhaaree bhekh kar thake aThisaTh teerath naae ||",
+                      "larivaar": "bhekhadhaaree​bhekh​kar​thake​aThisaTh​teerath​naae​||"
+                  },
+                  "devanagari": {
+                      "text": "भेखधारी भेख करि थके अठिसठि तीरथ नाइ ॥",
+                      "larivaar": "भेखधारी​भेख​करि​थके​अठिसठि​तीरथ​नाइ​॥"
+                  }
+              },
+              "linenum": 19,
+              "firstletters": {
+                  "akhar": "BBkQAqn",
+                  "unicode": "ਭਭਕਥਅਤਨ"
+              }
+          }
+      },
+      {
+          "line": {
+              "id": "DS9F",
+              "gurmukhi": {
+                  "akhar": "mn kI swr n jwxnI haumY Brim Bulwie ]",
+                  "unicode": "ਮਨ ਕੀ ਸਾਰ ਨ ਜਾਣਨੀ ਹਉਮੈ ਭਰਮਿ ਭੁਲਾਇ ॥"
+              },
+              "larivaar": {
+                  "akhar": "mn​kI​swr​n​jwxnI​haumY​Brim​Bulwie​]",
+                  "unicode": "ਮਨ​ਕੀ​ਸਾਰ​ਨ​ਜਾਣਨੀ​ਹਉਮੈ​ਭਰਮਿ​ਭੁਲਾਇ​॥"
+              },
+              "translation": {
+                  "english": {
+                      "default": "They do not know the state of their own minds; they are deluded by doubt and egotism."
+                  },
+                  "punjabi": {
+                      "default": {
+                          "akhar": "haumY qy Brm ivc Bu`ly hoieAW ƒ mn dI swr nhIN AweI[",
+                          "unicode": "ਹਉਮੈ ਤੇ ਭਰਮ ਵਿਚ ਭੁੱਲੇ ਹੋਇਆਂ ਨੂੰ ਮਨ ਦੀ ਸਾਰ ਨਹੀਂ ਆਈ।"
+                      }
+                  },
+                  "spanish": "No conocen el estado de sus propias mentes y son engañados por la duda y el egoísmo,"
+              },
+              "transliteration": {
+                  "english": {
+                      "text": "man kee saar na jaaNanee haumai bharam bhulaae ||",
+                      "larivaar": "man​kee​saar​na​jaaNanee​haumai​bharam​bhulaae​||"
+                  },
+                  "devanagari": {
+                      "text": "मन की सार न जाणनी हउमै भरमि भुलाइ ॥",
+                      "larivaar": "मन​की​सार​न​जाणनी​हउमै​भरमि​भुलाइ​॥"
+                  }
+              },
+              "linenum": 1,
+              "firstletters": {
+                  "akhar": "mksnjhBB",
+                  "unicode": "ਮਕਸਨਜਹਭਭ"
+              }
+          }
+      },
+      {
+          "line": {
+              "id": "F1SX",
+              "gurmukhi": {
+                  "akhar": "gurprswdI Bau pieAw vfBwig visAw min Awie ]",
+                  "unicode": "ਗੁਰਪਰਸਾਦੀ ਭਉ ਪਇਆ ਵਡਭਾਗਿ ਵਸਿਆ ਮਨਿ ਆਇ ॥"
+              },
+              "larivaar": {
+                  "akhar": "gurprswdI​Bau​pieAw​vfBwig​visAw​min​Awie​]",
+                  "unicode": "ਗੁਰਪਰਸਾਦੀ​ਭਉ​ਪਇਆ​ਵਡਭਾਗਿ​ਵਸਿਆ​ਮਨਿ​ਆਇ​॥"
+              },
+              "translation": {
+                  "english": {
+                      "default": "By Guru's Grace, the Fear of God is obtained; by great good fortune, the Lord comes to abide in the mind."
+                  },
+                  "punjabi": {
+                      "default": {
+                          "akhar": "v`fy Bwg nwl siqgurU dI ikrpw rwhIN Bau aupjdw hY qy mn ivc Aw ky v`sdw hY;",
+                          "unicode": "ਵੱਡੇ ਭਾਗ ਨਾਲ ਸਤਿਗੁਰੂ ਦੀ ਕਿਰਪਾ ਰਾਹੀਂ ਭਉ ਉਪਜਦਾ ਹੈ ਤੇ ਮਨ ਵਿਚ ਆ ਕੇ ਵੱਸਦਾ ਹੈ;"
+                      }
+                  },
+                  "spanish": "Otros, por la Gracia del Guru, están llenos del Temor de Dios y por la buena fortuna,"
+              },
+              "transliteration": {
+                  "english": {
+                      "text": "guraparasaadhee bhau peiaa vaddabhaag vasiaa man aae ||",
+                      "larivaar": "guraparasaadhee​bhau​peiaa​vaddabhaag​vasiaa​man​aae​||"
+                  },
+                  "devanagari": {
+                      "text": "गुरपरसादी भउ पइआ वडभागि वसिआ मनि आइ ॥",
+                      "larivaar": "गुरपरसादी​भउ​पइआ​वडभागि​वसिआ​मनि​आइ​॥"
+                  }
+              },
+              "linenum": 1,
+              "firstletters": {
+                  "akhar": "gBpvvmA",
+                  "unicode": "ਗਭਪਵਵਮਅ"
+              }
+          }
+      },
+      {
+          "line": {
+              "id": "7RV9",
+              "gurmukhi": {
+                  "akhar": "BY pieAY mnu vis hoAw haumY sbid jlwie ]",
+                  "unicode": "ਭੈ ਪਇਐ ਮਨੁ ਵਸਿ ਹੋਆ ਹਉਮੈ ਸਬਦਿ ਜਲਾਇ ॥"
+              },
+              "larivaar": {
+                  "akhar": "BY​pieAY​mnu​vis​hoAw​haumY​sbid​jlwie​]",
+                  "unicode": "ਭੈ​ਪਇਐ​ਮਨੁ​ਵਸਿ​ਹੋਆ​ਹਉਮੈ​ਸਬਦਿ​ਜਲਾਇ​॥"
+              },
+              "translation": {
+                  "english": {
+                      "default": "When the Fear of God comes, the mind is restrained, and through the Word of the Shabad, the ego is burnt away."
+                  },
+                  "punjabi": {
+                      "default": {
+                          "akhar": "(hrI dw) Bau aupijAW hI, qy haumY siqgurU dy Sbd nwl swV ky hI mn v`s ivc AwauNdw hY[",
+                          "unicode": "(ਹਰੀ ਦਾ) ਭਉ ਉਪਜਿਆਂ ਹੀ, ਤੇ ਹਉਮੈ ਸਤਿਗੁਰੂ ਦੇ ਸ਼ਬਦ ਨਾਲ ਸਾੜ ਕੇ ਹੀ ਮਨ ਵੱਸ ਵਿਚ ਆਉਂਦਾ ਹੈ।"
+                      }
+                  },
+                  "spanish": "el Señor viene a habitar en sus mentes. Llenos de Devoción a Dios, controlan la mente,"
+              },
+              "transliteration": {
+                  "english": {
+                      "text": "bhai peiaai man vas hoaa haumai sabadh jalaae ||",
+                      "larivaar": "bhai​peiaai​man​vas​hoaa​haumai​sabadh​jalaae​||"
+                  },
+                  "devanagari": {
+                      "text": "भै पइऐ मनु वसि होआ हउमै सबदि जलाइ ॥",
+                      "larivaar": "भै​पइऐ​मनु​वसि​होआ​हउमै​सबदि​जलाइ​॥"
+                  }
+              },
+              "linenum": 2,
+              "firstletters": {
+                  "akhar": "Bpmvhhsj",
+                  "unicode": "ਭਪਮਵਹਹਸਜ"
+              }
+          }
+      },
+      {
+          "line": {
+              "id": "9PT2",
+              "gurmukhi": {
+                  "akhar": "sic rqy sy inrmly joqI joiq imlwie ]",
+                  "unicode": "ਸਚਿ ਰਤੇ ਸੇ ਨਿਰਮਲੇ ਜੋਤੀ ਜੋਤਿ ਮਿਲਾਇ ॥"
+              },
+              "larivaar": {
+                  "akhar": "sic​rqy​sy​inrmly​joqI​joiq​imlwie​]",
+                  "unicode": "ਸਚਿ​ਰਤੇ​ਸੇ​ਨਿਰਮਲੇ​ਜੋਤੀ​ਜੋਤਿ​ਮਿਲਾਇ​॥"
+              },
+              "translation": {
+                  "english": {
+                      "default": "Those who are imbued with Truth are immaculate; their light merges in the Light."
+                  },
+                  "punjabi": {
+                      "default": {
+                          "akhar": "jo mnu`K joqI-pRBU ivc AwpxI ibRqI imlw ky s`cy ivc rMgy gey hn, auh inrml ho gey hn;",
+                          "unicode": "ਜੋ ਮਨੁੱਖ ਜੋਤੀ-ਪ੍ਰਭੂ ਵਿਚ ਆਪਣੀ ਬ੍ਰਿਤੀ ਮਿਲਾ ਕੇ ਸੱਚੇ ਵਿਚ ਰੰਗੇ ਗਏ ਹਨ, ਉਹ ਨਿਰਮਲ ਹੋ ਗਏ ਹਨ;"
+                      }
+                  },
+                  "spanish": "y a través de la Palabra del Shabd destruyen la idea de lo mío y lo tuyo."
+              },
+              "transliteration": {
+                  "english": {
+                      "text": "sach rate se niramale jotee jot milaae ||",
+                      "larivaar": "sach​rate​se​niramale​jotee​jot​milaae​||"
+                  },
+                  "devanagari": {
+                      "text": "सचि रते से निरमले जोती जोति मिलाइ ॥",
+                      "larivaar": "सचि​रते​से​निरमले​जोती​जोति​मिलाइ​॥"
+                  }
+              },
+              "linenum": 2,
+              "firstletters": {
+                  "akhar": "srsnjjm",
+                  "unicode": "ਸਰਸਨਜਜਮ"
+              }
+          }
+      },
+      {
+          "line": {
+              "id": "A717",
+              "gurmukhi": {
+                  "akhar": "siqguir imilAY nwau pwieAw nwnk suiK smwie ]2]",
+                  "unicode": "ਸਤਿਗੁਰਿ ਮਿਲਿਐ ਨਾਉ ਪਾਇਆ ਨਾਨਕ ਸੁਖਿ ਸਮਾਇ ॥੨॥"
+              },
+              "larivaar": {
+                  "akhar": "siqguir​imilAY​nwau​pwieAw​nwnk​suiK​smwie​]2]",
+                  "unicode": "ਸਤਿਗੁਰਿ​ਮਿਲਿਐ​ਨਾਉ​ਪਾਇਆ​ਨਾਨਕ​ਸੁਖਿ​ਸਮਾਇ​॥੨॥"
+              },
+              "translation": {
+                  "english": {
+                      "default": "Meeting the True Guru, one obtains the Name; O Nanak, he is absorbed in peace. ||2||"
+                  },
+                  "punjabi": {
+                      "default": {
+                          "akhar": "(pr) hy nwnk! siqgurU dy imilAW hI nwm imldw hY qy suK ivc smweI huMdI hY ]2]",
+                          "unicode": "(ਪਰ) ਹੇ ਨਾਨਕ! ਸਤਿਗੁਰੂ ਦੇ ਮਿਲਿਆਂ ਹੀ ਨਾਮ ਮਿਲਦਾ ਹੈ ਤੇ ਸੁਖ ਵਿਚ ਸਮਾਈ ਹੁੰਦੀ ਹੈ ॥੨॥"
+                      }
+                  },
+                  "spanish": "Aquéllos que están imbuidos en la Verdad son inmaculados y su Alma se funde en el Infinito. Encontrando al Guru son bendecidos con el Nombre del Señor y logran vivir en Éxtasis. (2)"
+              },
+              "transliteration": {
+                  "english": {
+                      "text": "satigur miliaai naau paaeiaa naanak sukh samaae ||2||",
+                      "larivaar": "satigur​miliaai​naau​paaeiaa​naanak​sukh​samaae​||2||"
+                  },
+                  "devanagari": {
+                      "text": "सतिगुरि मिलिऐ नाउ पाइआ नानक सुखि समाइ ॥२॥",
+                      "larivaar": "सतिगुरि​मिलिऐ​नाउ​पाइआ​नानक​सुखि​समाइ​॥२॥"
+                  }
+              },
+              "linenum": 3,
+              "firstletters": {
+                  "akhar": "smnpnss",
+                  "unicode": "ਸਮਨਪਨਸਸ"
+              }
+          }
+      },
+      {
+          "line": {
+              "id": "N5KV",
+              "gurmukhi": {
+                  "akhar": "pauVI ]",
+                  "unicode": "ਪਉੜੀ ॥"
+              },
+              "larivaar": {
+                  "akhar": "pauVI​]",
+                  "unicode": "ਪਉੜੀ​॥"
+              },
+              "translation": {
+                  "english": {
+                      "default": "Pauree:"
+                  },
+                  "punjabi": {
+                      "default": {
+                          "akhar": "",
+                          "unicode": ""
+                      }
+                  },
+                  "spanish": "Pauri"
+              },
+              "transliteration": {
+                  "english": {
+                      "text": "paurree ||",
+                      "larivaar": "paurree​||"
+                  },
+                  "devanagari": {
+                      "text": "पउड़ी ॥",
+                      "larivaar": "पउड़ी​॥"
+                  }
+              },
+              "linenum": 3,
+              "firstletters": {
+                  "akhar": "p",
+                  "unicode": "ਪ"
+              }
+          }
+      },
+      {
+          "line": {
+              "id": "PFLT",
+              "gurmukhi": {
+                  "akhar": "eyh BUpiq rwxy rMg idn cwir suhwvxw ]",
+                  "unicode": "ਏਹ ਭੂਪਤਿ ਰਾਣੇ ਰੰਗ ਦਿਨ ਚਾਰਿ ਸੁਹਾਵਣਾ ॥"
+              },
+              "larivaar": {
+                  "akhar": "eyh​BUpiq​rwxy​rMg​idn​cwir​suhwvxw​]",
+                  "unicode": "ਏਹ​ਭੂਪਤਿ​ਰਾਣੇ​ਰੰਗ​ਦਿਨ​ਚਾਰਿ​ਸੁਹਾਵਣਾ​॥"
+              },
+              "translation": {
+                  "english": {
+                      "default": "The pleasures of kings and emperors are pleasing, but they last for only a few days."
+                  },
+                  "punjabi": {
+                      "default": {
+                          "akhar": "rwijAW qy rwixAW dy ieh rMg cwr idnW (Bwv, QoVy icr) leI soBnIk huMdy hn;",
+                          "unicode": "ਰਾਜਿਆਂ ਤੇ ਰਾਣਿਆਂ ਦੇ ਇਹ ਰੰਗ ਚਾਰ ਦਿਨਾਂ (ਭਾਵ, ਥੋੜੇ ਚਿਰ) ਲਈ ਸੋਭਨੀਕ ਹੁੰਦੇ ਹਨ;"
+                      }
+                  },
+                  "spanish": "La gloria de los reyes y emperadores no se conserva más que pocos días."
+              },
+              "transliteration": {
+                  "english": {
+                      "text": "eh bhoopat raaNe rang dhin chaar suhaavaNaa ||",
+                      "larivaar": "eh​bhoopat​raaNe​rang​dhin​chaar​suhaavaNaa​||"
+                  },
+                  "devanagari": {
+                      "text": "एह भूपति राणे रंग दिन चारि सुहावणा ॥",
+                      "larivaar": "एह​भूपति​राणे​रंग​दिन​चारि​सुहावणा​॥"
+                  }
+              },
+              "linenum": 3,
+              "firstletters": {
+                  "akhar": "eBrrdcs",
+                  "unicode": "ੲਭਰਰਦਚਸ"
+              }
+          }
+      },
+      {
+          "line": {
+              "id": "7WNG",
+              "gurmukhi": {
+                  "akhar": "eyhu mwieAw rMgu ksuMB iKn mih lih jwvxw ]",
+                  "unicode": "ਏਹੁ ਮਾਇਆ ਰੰਗੁ ਕਸੁੰਭ ਖਿਨ ਮਹਿ ਲਹਿ ਜਾਵਣਾ ॥"
+              },
+              "larivaar": {
+                  "akhar": "eyhu​mwieAw​rMgu​ksuMB​iKn​mih​lih​jwvxw​]",
+                  "unicode": "ਏਹੁ​ਮਾਇਆ​ਰੰਗੁ​ਕਸੁੰਭ​ਖਿਨ​ਮਹਿ​ਲਹਿ​ਜਾਵਣਾ​॥"
+              },
+              "translation": {
+                  "english": {
+                      "default": "These pleasures of Maya are like the color of the safflower, which wears off in a moment."
+                  },
+                  "punjabi": {
+                      "default": {
+                          "akhar": "mwieAw dw ieh rMg ksuMBy dw rMg hY (Bwv, ksuMBy vWg iCn-BMgur hY), iCn mwqR ivc lih jweygw,",
+                          "unicode": "ਮਾਇਆ ਦਾ ਇਹ ਰੰਗ ਕਸੁੰਭੇ ਦਾ ਰੰਗ ਹੈ (ਭਾਵ, ਕਸੁੰਭੇ ਵਾਂਗ ਛਿਨ-ਭੰਗੁਰ ਹੈ), ਛਿਨ ਮਾਤ੍ਰ ਵਿਚ ਲਹਿ ਜਾਏਗਾ,"
+                      }
+                  },
+                  "spanish": "El color de Maya es como el tinte del cártamo; se desvanece en poco tiempo."
+              },
+              "transliteration": {
+                  "english": {
+                      "text": "ehu maaeiaa rang kasunbh khin meh leh jaavaNaa ||",
+                      "larivaar": "ehu​maaeiaa​rang​kasunbh​khin​meh​leh​jaavaNaa​||"
+                  },
+                  "devanagari": {
+                      "text": "एहु माइआ रंगु कसुंभ खिन महि लहि जावणा ॥",
+                      "larivaar": "एहु​माइआ​रंगु​कसुंभ​खिन​महि​लहि​जावणा​॥"
+                  }
+              },
+              "linenum": 4,
+              "firstletters": {
+                  "akhar": "emrkKmlj",
+                  "unicode": "ੲਮਰਕਖਮਲਜ"
+              }
+          }
+      },
+      {
+          "line": {
+              "id": "MAU0",
+              "gurmukhi": {
+                  "akhar": "clidAw nwil n clY isir pwp lY jwvxw ]",
+                  "unicode": "ਚਲਦਿਆ ਨਾਲਿ ਨ ਚਲੈ ਸਿਰਿ ਪਾਪ ਲੈ ਜਾਵਣਾ ॥"
+              },
+              "larivaar": {
+                  "akhar": "clidAw​nwil​n​clY​isir​pwp​lY​jwvxw​]",
+                  "unicode": "ਚਲਦਿਆ​ਨਾਲਿ​ਨ​ਚਲੈ​ਸਿਰਿ​ਪਾਪ​ਲੈ​ਜਾਵਣਾ​॥"
+              },
+              "translation": {
+                  "english": {
+                      "default": "They do not go with him when he departs; instead, he carries the load of sins upon his head."
+                  },
+                  "punjabi": {
+                      "default": {
+                          "akhar": "(sMswr qoN) qurn vyly mwieAw nwl nhIN jWdI, (pr ies dy kwrn kIqy) pwp Awpxy isr qy lY jweIdy hn[",
+                          "unicode": "(ਸੰਸਾਰ ਤੋਂ) ਤੁਰਨ ਵੇਲੇ ਮਾਇਆ ਨਾਲ ਨਹੀਂ ਜਾਂਦੀ, (ਪਰ ਇਸ ਦੇ ਕਾਰਨ ਕੀਤੇ) ਪਾਪ ਆਪਣੇ ਸਿਰ ਤੇ ਲੈ ਜਾਈਦੇ ਹਨ।"
+                      }
+                  },
+                  "spanish": "No nos acompaña y uno carga el peso de la maldad sobre la cabeza."
+              },
+              "transliteration": {
+                  "english": {
+                      "text": "chaladhiaa naal na chalai sir paap lai jaavaNaa ||",
+                      "larivaar": "chaladhiaa​naal​na​chalai​sir​paap​lai​jaavaNaa​||"
+                  },
+                  "devanagari": {
+                      "text": "चलदिआ नालि न चलै सिरि पाप लै जावणा ॥",
+                      "larivaar": "चलदिआ​नालि​न​चलै​सिरि​पाप​लै​जावणा​॥"
+                  }
+              },
+              "linenum": 4,
+              "firstletters": {
+                  "akhar": "cnncsplj",
+                  "unicode": "ਚਨਨਚਸਪਲਜ"
+              }
+          }
+      },
+      {
+          "line": {
+              "id": "F7VY",
+              "gurmukhi": {
+                  "akhar": "jW pkiV clwieAw kwil qW Krw frwvxw ]",
+                  "unicode": "ਜਾਂ ਪਕੜਿ ਚਲਾਇਆ ਕਾਲਿ ਤਾਂ ਖਰਾ ਡਰਾਵਣਾ ॥"
+              },
+              "larivaar": {
+                  "akhar": "jW​pkiV​clwieAw​kwil​qW​Krw​frwvxw​]",
+                  "unicode": "ਜਾਂ​ਪਕੜਿ​ਚਲਾਇਆ​ਕਾਲਿ​ਤਾਂ​ਖਰਾ​ਡਰਾਵਣਾ​॥"
+              },
+              "translation": {
+                  "english": {
+                      "default": "When death seizes him, and marches him away, then he looks absolutely hideous."
+                  },
+                  "punjabi": {
+                      "default": {
+                          "akhar": "jdoN jm-kwl ny PV ky A`gy lw ilAw, qW (jIv) fwFw BY-BIq huMdw hY;",
+                          "unicode": "ਜਦੋਂ ਜਮ-ਕਾਲ ਨੇ ਫੜ ਕੇ ਅੱਗੇ ਲਾ ਲਿਆ, ਤਾਂ (ਜੀਵ) ਡਾਢਾ ਭੈ-ਭੀਤ ਹੁੰਦਾ ਹੈ;"
+                      }
+                  },
+                  "spanish": "¡Qué mal se ve uno cuando la muerte se lo lleva,"
+              },
+              "transliteration": {
+                  "english": {
+                      "text": "jaa(n) pakarr chalaaeiaa kaal taa(n) kharaa ddaraavaNaa ||",
+                      "larivaar": "jaa(n)​pakarr​chalaaeiaa​kaal​taa(n)​kharaa​ddaraavaNaa​||"
+                  },
+                  "devanagari": {
+                      "text": "जां पकड़ि चलाइआ कालि तां खरा डरावणा ॥",
+                      "larivaar": "जां​पकड़ि​चलाइआ​कालि​तां​खरा​डरावणा​॥"
+                  }
+              },
+              "linenum": 5,
+              "firstletters": {
+                  "akhar": "jpckqKf",
+                  "unicode": "ਜਪਚਕਤਖਡ"
+              }
+          }
+      },
+      {
+          "line": {
+              "id": "JRPM",
+              "gurmukhi": {
+                  "akhar": "Eh vylw hiQ n AwvY iPir pCuqwvxw ]6]",
+                  "unicode": "ਓਹ ਵੇਲਾ ਹਥਿ ਨ ਆਵੈ ਫਿਰਿ ਪਛੁਤਾਵਣਾ ॥੬॥"
+              },
+              "larivaar": {
+                  "akhar": "Eh​vylw​hiQ​n​AwvY​iPir​pCuqwvxw​]6]",
+                  "unicode": "ਓਹ​ਵੇਲਾ​ਹਥਿ​ਨ​ਆਵੈ​ਫਿਰਿ​ਪਛੁਤਾਵਣਾ​॥੬॥"
+              },
+              "translation": {
+                  "english": {
+                      "default": "That lost opportunity will not come into his hands again, and in the end, he regrets and repents. ||6||"
+                  },
+                  "punjabi": {
+                      "default": {
+                          "akhar": "(mnu`K-jnm vwlw) auh smw Pyr imldw nhIN, ies vwsqy pCuqwauNdw hY ]6]",
+                          "unicode": "(ਮਨੁੱਖ-ਜਨਮ ਵਾਲਾ) ਉਹ ਸਮਾ ਫੇਰ ਮਿਲਦਾ ਨਹੀਂ, ਇਸ ਵਾਸਤੇ ਪਛੁਤਾਉਂਦਾ ਹੈ ॥੬॥"
+                      }
+                  },
+                  "spanish": "sólo queda lamentarse y arrepentirse! (6)"
+              },
+              "transliteration": {
+                  "english": {
+                      "text": "oh velaa hath na aavai fir pachhutaavaNaa ||6||",
+                      "larivaar": "oh​velaa​hath​na​aavai​fir​pachhutaavaNaa​||6||"
+                  },
+                  "devanagari": {
+                      "text": "ओह वेला हथि न आवै फिरि पछुतावणा ॥६॥",
+                      "larivaar": "ओह​वेला​हथि​न​आवै​फिरि​पछुतावणा​॥६॥"
+                  }
+              },
+              "linenum": 5,
+              "firstletters": {
+                  "akhar": "avhnAPp",
+                  "unicode": "ੳਵਹਨਅਫਪ"
+              }
+          }
+      }
+  ],
+  "error": false
+}
