@@ -9,5 +9,7 @@ module.exports = `<!DOCTYPE html>
   </head>
   <body>
     <main id="hukamnama">[HUKUMNAMA]</main>
+    <br>
+    <a href="http://old.sgpc.net/hukumnama/jpeg%20hukamnama/hukamnama.mp3" target="_blank">Audio</a>
   </body>
 </html>`;
